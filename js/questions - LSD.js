@@ -2081,7 +2081,7 @@ const myQuestions = [
     c: "Sự chủ động, mong muốn của Nguyễn ái Quốc.",
     d: "Nhận được chỉ thị hướng dẫn của Quốc tế Cộng sản.",
     },
-    correctAnswer: "c",
+    correctAnswer: "a",
     correctAnswerText: "Đúng",
     falseAnswerText: "Sai, câu trả lời đúng là c"
     },
@@ -3341,7 +3341,7 @@ const myQuestions = [
     c: "Thêm bạn bớt thù.",
     d: "Hoa -Việt thân thiện.",
     },
-    correctAnswer: "d",
+    correctAnswer: "a",
     correctAnswerText: "Đúng",
     falseAnswerText: "Sai, câu trả lời đúng là d"
     },
