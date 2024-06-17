@@ -1115,7 +1115,7 @@ const myQuestions = [
     c: "Vũ Hồng Khanh.",
     d: "Nguyễn Thái Học.",
     },
-    correctAnswer: "b",
+    correctAnswer: "d",
     correctAnswerText: "Đúng",
     falseAnswerText: "Sai, câu trả lời đúng là b"
     },
