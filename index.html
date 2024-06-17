@@ -73,12 +73,12 @@
     const output = [];
 
     //random câu hỏi
-    // for (var i = myQuestions.length - 1; i > 0; i--) {
-    //     var j = Math.floor(Math.random() * (i + 1));
-    //     var temp = myQuestions[i];
-    //     myQuestions[i] = myQuestions[j];
-    //     myQuestions[j] = temp;
-    //   }
+     for (var i = myQuestions.length - 1; i > 0; i--) {
+         var j = Math.floor(Math.random() * (i + 1));
+         var temp = myQuestions[i];
+         myQuestions[i] = myQuestions[j];
+         myQuestions[j] = temp;
+       }
     //hết random
     // for each question...
     // we’re using an arrow function to perform our operations on each question. Because this is in a forEach loop, we get the current value, the index, and the array itself as parameters. We only need the current value and the index, which for our purposes, we’ll name currentQuestion and questionNumber respectively.
